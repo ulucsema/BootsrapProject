@@ -1,0 +1,62 @@
+#title {
+    color: #e0ffcd;
+    font-family: verdana;
+    font-size: 25px;
+    font-family: fangsong;
+
+}
+.container {
+    margin-top: 5px;
+    background: #1f6f78;
+  }
+  
+  .col {
+    display: flex;
+  }
+  .card {
+    font-family: fangsong; 
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 10px;
+  }
+  
+  .card-content {
+    padding: 20px;
+  }
+  
+  .card-action {
+    padding: 10px;
+    background-color: #f9f9f9;
+    position: relative;
+  }
+  
+  .btn {
+    background-color: #3383d7;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #footer{
+    bottom:0;
+    width:100%;
+     font-family: fangsong;
+     background-color: #1f6f78;
+     padding: 1em;
+     color: white;
+     clear: left;
+     text-align: center; 
+     
+ }
+ .carousel {
+    max-width: 600px; 
+    margin: 0 auto; 
+}
+ .carousel-inner img {
+    max-width: 100%;
+    height: auto;
+}
